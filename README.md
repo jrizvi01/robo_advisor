@@ -13,6 +13,7 @@ This bot utilizes Amazon Lex and Amazon's Lambda function to provide investment 
  * Amazon Lambda - WS Lambda is an event-driven, serverless computing platform provided by Amazon
 
 
+## Unit Test - Amazon Lex
 
 #### 1. Amazon Lex - Initial Test
 
