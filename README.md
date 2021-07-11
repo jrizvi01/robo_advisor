@@ -11,3 +11,9 @@ This bot utilizes Amazon Lex and Amazon's Lambda function to provide investment 
 ## Technologies
  * Amazon Lex - Amazon Lex is a service for building conversational interfaces into any application using voice and text.
  * Amazon Lambda - WS Lambda is an event-driven, serverless computing platform provided by Amazon
+
+
+
+#### 1. Amazon Lex - Initial Test
+
+
